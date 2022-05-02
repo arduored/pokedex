@@ -17,8 +17,35 @@ Head to the following urls to check all is working properly:
 - `localhost:3001/` should display a JSON gathering saying that all is working.
 - `localhost:3000` should prompt you a grid of pokemons images and names
 
-Congratulations you're all set-up and ready to go!
+Congratulations you're all set-up and ready to go 🚀!
 
 # Test
 
-This little project is based upon Next.js, Express, prisma and PostgreSQL.
+This little project is based upon Next.js, Express, Typescript, prisma and PostgreSQL.
+You have 2hours to complete as many questions as possible.
+
+## Question 1
+
+Every Pokedex should have a search feature don't you think ? Let's build it!
+
+## Question 2
+
+Having a picture and a name of a pokemon isn't enough for a so called Pokedex:
+- Add an endpoint to serve the details of a given pokemon 
+- Then use this route on the frontend part
+
+## Question 3
+
+Now that we have some features working, let's style the frontend a bit!
+Improve the style of the two pages.
+
+## Question 4
+
+Now that everything is in place, it's time to improve our code base. 
+- Improve the DB schema
+- Depending on what improvments you made to the DB, expose a new endpoint
+- Use this new endpoint in the frontend
+
+## Wrap-up
+
+First of all: 🔥 CONGRATULATIONS 🔥 ! Finished or not, thanks for your time and the effort you put into this assessment.
